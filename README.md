@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedhadiK
 - 👀 I’m interested in Anything Web developing/Python.
-- 🌱 I’m currently learning Web+Python.
+- 🌱 I’m currently learning Web+Python+Node
 - 📫 How to reach me : Can edit my code maybe or send an email 😃
 
 <!---
